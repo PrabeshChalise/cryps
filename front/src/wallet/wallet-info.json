@@ -1,0 +1,212 @@
+[
+  {
+    "_id": {
+      "$oid": "66b1205dc082ec9f34cc3db6"
+    },
+    "symbol": "BITCOIN",
+    "walletAddress": "bc1qm7m3aw57lla4nt9l880rhj0yhs5gfnzw7ft43s",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726418735/uploads/1726418735298-BTC.jpeg.png",
+    "cryptoName": "BTC",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1d9fc8f3a706d77f393d0"
+    },
+    "symbol": "ETHEREUM",
+    "walletAddress": "0x9b64be08728201620a718EAcd8496b5E62066502",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726418750/uploads/1726418750491-ETH.jpeg.png",
+    "cryptoName": "ETH",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1da3d8f3a706d77f393e2"
+    },
+    "symbol": "TETHER",
+    "walletAddress": "0x9b64be08728201620a718EAcd8496b5E62066502",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726418766/uploads/1726418766399-ETH.jpeg.png",
+    "cryptoName": "USDT",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e2ab8f3a706d77f3944b"
+    },
+    "symbol": "BINANCECOIN",
+    "walletAddress": "0x9b64be08728201620a718EAcd8496b5E62066502",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726418784/uploads/1726418783648-BNB.jpeg.png",
+    "cryptoName": "BNB",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e30b8f3a706d77f39461"
+    },
+    "symbol": "USD-COIN",
+    "walletAddress": "0x9b64be08728201620a718EAcd8496b5E62066502",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726418797/uploads/1726418796603-ETH.jpeg.png",
+    "cryptoName": "USDC",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e3318f3a706d77f39466"
+    },
+    "symbol": "XRP",
+    "walletAddress": "rDwfZtBYyLSXp4D7FqFkMRkA8EkhPWEicu",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1722934064/uploads/1722934064414-XRP.jpeg.png",
+    "cryptoName": "XRP",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e3548f3a706d77f3946b"
+    },
+    "symbol": "TONCOIN",
+    "walletAddress": "UQAuhMkX0j3pVqeq2TDlFn2r7tId74qZz05j2HWGCvEnYDum",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1722934099/uploads/1722934099113-TON.jpeg.png",
+    "cryptoName": "TON",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e3768f3a706d77f39470"
+    },
+    "symbol": "CARDANO",
+    "walletAddress": "addr1q8vppvgc60kk0p2d4el9f2gryzz6s4lg9tke9udhtev7g6kh34lahxvhgx0mmw0emctq8szc2nc5uwu8fp8jksyhv7usw08h7n",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726339539/uploads/1726339539502-ADA.jpeg.png",
+    "cryptoName": "ADA",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e3a48f3a706d77f39475"
+    },
+    "symbol": "TRON",
+    "walletAddress": "TEHACA6ushWGRcYcKrKrvQht8qRC7CZfoC",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1722934180/uploads/1722934179588-TRX.jpeg.png",
+    "cryptoName": "TRX",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e3cc8f3a706d77f3947a"
+    },
+    "symbol": "AVALANCHE",
+    "walletAddress": "0xa2493fD48c20B6Ed3024726bCbf79Dc7d070f343",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726418847/uploads/1726418847226-ETH.jpeg.png",
+    "cryptoName": "AVAX",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e3f48f3a706d77f3947f"
+    },
+    "symbol": "BITCOIN CASH",
+    "walletAddress": "0x9b64be08728201620a718EAcd8496b5E62066502",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726418881/uploads/1726418880675-ETH.jpeg.png",
+    "cryptoName": "BCH",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e45e8f3a706d77f39484"
+    },
+    "symbol": "POLKADOT",
+    "walletAddress": "1MSJJoymybcc2o6zs8rU22ywKekoi1sNm3Dc9yHKV1Qg84C",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726414739/uploads/1726414739220-polkadot.png.png",
+    "cryptoName": "DOT",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e47b8f3a706d77f3948c"
+    },
+    "symbol": "DAI",
+    "walletAddress": "0x9b64be08728201620a718EAcd8496b5E62066502",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726418906/uploads/1726418905877-ETH.jpeg.png",
+    "cryptoName": "DAI",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e4a28f3a706d77f39491"
+    },
+    "symbol": "LITECOIN",
+    "walletAddress": "ltc1qhrqfp4rja2wucpdnnx56dks59gxd3jqt5r77hc",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726415260/uploads/1726415259828-LTC.jpeg.png",
+    "cryptoName": "LTC",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e4c28f3a706d77f39496"
+    },
+    "symbol": "SHIBA INU",
+    "walletAddress": "0x9b64be08728201620a718EAcd8496b5E62066502",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726418943/uploads/1726418943358-ETH.jpeg.png",
+    "cryptoName": "SHIB",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e4fa8f3a706d77f3949b"
+    },
+    "symbol": "SOLANA",
+    "walletAddress": "7utpbsxpFQ6e2sNhAWdVvMqCWUATzzDWoJ8vGQkUuMHs",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726415379/uploads/1726415379313-SOL.jpeg.png",
+    "cryptoName": "SOL",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e5638f3a706d77f394a0"
+    },
+    "symbol": "LIDO STAKED ETHER",
+    "walletAddress": "7utpbsxpFQ6e2sNhAWdVvMqCWUATzzDWoJ8vGQkUuMHs",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726415435/uploads/1726415435291-SOL.jpeg.png",
+    "cryptoName": "STETH",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e58e8f3a706d77f394a7"
+    },
+    "symbol": "WRAPPED BITCOIN",
+    "walletAddress": "0x9b64be08728201620a718EAcd8496b5E62066502",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726418981/uploads/1726418980821-ETH.jpeg.png",
+    "cryptoName": "WBTC",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b1e5e78f3a706d77f394b0"
+    },
+    "symbol": "CHAINLINK",
+    "walletAddress": "0x9b64be08728201620a718EAcd8496b5E62066502",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726419028/uploads/1726419028329-ETH.jpeg.png",
+    "cryptoName": "LINK",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66b24b29586fd91e0910ef6b"
+    },
+    "symbol": "LEO TOKEN",
+    "walletAddress": "0x9b64be08728201620a718EAcd8496b5E62066502",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726419051/uploads/1726419050991-ETH.jpeg.png",
+    "cryptoName": "LEO",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66d15fbeb61cfeb627e2fed6"
+    },
+    "symbol": "WRAPPED STETH",
+    "walletAddress": "0x9b64be08728201620a718EAcd8496b5E62066502",
+    "qrCodeUrl": "https://res.cloudinary.com/dsnmhnj0b/image/upload/v1726419079/uploads/1726419079082-ETH.jpeg.png",
+    "cryptoName": "WSTETH",
+    "__v": 0
+  }
+]
